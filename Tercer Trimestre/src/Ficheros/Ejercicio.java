@@ -1,4 +1,4 @@
-package Ficheros;
+ package Ficheros;
 
 import java.io.*;
 import java.util.*;
